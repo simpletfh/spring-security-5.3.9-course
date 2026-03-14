@@ -41,7 +41,10 @@
 
 ## 📁 本地文件
 
-- `README.md` - 本文件
+**⭐ 推荐阅读**：
+- `spring-security-course-complete.md` - **完整合并版本**（792KB，27万字，包含所有模块）
+
+**分片文件**：
 - `spring-security-part1.md` - 模块1-2（快速入门+认证机制）
 - `spring-security-part2.md` - 模块3-4（授权机制+会话管理）
 - `spring-security-part3.md` - 模块5-6（JWT+OAuth2）
