@@ -1,0 +1,1132 @@
+{
+  "course_title": "Spring Security 课程讲义",
+  "total_questions": 71,
+  "choice_questions": [
+    {
+      "type": "choice",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点1: Spring Security 是什么？",
+      "question": "关于 **核心特性：** 的说法，以下哪项是正确的？",
+      "options": [
+        "核心特性： 是一个重要的概念",
+        "核心特性： 只能在特定场景下使用",
+        "核心特性： 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，核心特性： 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点2: 第一个 Spring Security 应用",
+      "question": "关于 **2.1.1 系统要求** 的说法，以下哪项是正确的？",
+      "options": [
+        "2.1.1 系统要求 是一个重要的概念",
+        "2.1.1 系统要求 只能在特定场景下使用",
+        "2.1.1 系统要求 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，2.1.1 系统要求 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点3: 核心架构概念",
+      "question": "关于 **3.1.1 Servlet 过滤器基础** 的说法，以下哪项是正确的？",
+      "options": [
+        "3.1.1 Servlet 过滤器基础 是一个重要的概念",
+        "3.1.1 Servlet 过滤器基础 只能在特定场景下使用",
+        "3.1.1 Servlet 过滤器基础 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，3.1.1 Servlet 过滤器基础 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点4: 配置方式详解",
+      "question": "关于 **4.1.1 XML 配置方式（Spring Security 2.x/3.x）** 的说法，以下哪项是正确的？",
+      "options": [
+        "4.1.1 XML 配置方式（Spring Security 2.x/3.x） 是一个重要的概念",
+        "4.1.1 XML 配置方式（Spring Security 2.x/3.x） 只能在特定场景下使用",
+        "4.1.1 XML 配置方式（Spring Security 2.x/3.x） 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，4.1.1 XML 配置方式（Spring Security 2.x/3.x） 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点5: 认证核心原理",
+      "question": "关于 **5.1.1 认证与授权的区别** 的说法，以下哪项是正确的？",
+      "options": [
+        "5.1.1 认证与授权的区别 是一个重要的概念",
+        "5.1.1 认证与授权的区别 只能在特定场景下使用",
+        "5.1.1 认证与授权的区别 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，5.1.1 认证与授权的区别 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点6: 用户详情服务",
+      "question": "关于 **6.1.1 接口定义** 的说法，以下哪项是正确的？",
+      "options": [
+        "6.1.1 接口定义 是一个重要的概念",
+        "6.1.1 接口定义 只能在特定场景下使用",
+        "6.1.1 接口定义 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，6.1.1 接口定义 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点7: 密码编码机制",
+      "question": "关于 **7.1.1 为什么不能明文存储密码？** 的说法，以下哪项是正确的？",
+      "options": [
+        "7.1.1 为什么不能明文存储密码？ 是一个重要的概念",
+        "7.1.1 为什么不能明文存储密码？ 只能在特定场景下使用",
+        "7.1.1 为什么不能明文存储密码？ 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，7.1.1 为什么不能明文存储密码？ 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点8: 常用认证方式",
+      "question": "关于 **8.1.1 工作原理** 的说法，以下哪项是正确的？",
+      "options": [
+        "8.1.1 工作原理 是一个重要的概念",
+        "8.1.1 工作原理 只能在特定场景下使用",
+        "8.1.1 工作原理 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，8.1.1 工作原理 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "第二部分：授权机制与会话管理",
+      "knowledge_point": "1. 授权概述",
+      "question": "关于 **AccessDecisionManager** 的说法，以下哪项是正确的？",
+      "options": [
+        "AccessDecisionManager 是一个重要的概念",
+        "AccessDecisionManager 只能在特定场景下使用",
+        "AccessDecisionManager 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，AccessDecisionManager 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "第二部分：授权机制与会话管理",
+      "knowledge_point": "2. 授权架构",
+      "question": "关于 **1. AffirmativeBased（肯定式决策）** 的说法，以下哪项是正确的？",
+      "options": [
+        "1. AffirmativeBased（肯定式决策） 是一个重要的概念",
+        "1. AffirmativeBased（肯定式决策） 只能在特定场景下使用",
+        "1. AffirmativeBased（肯定式决策） 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，1. AffirmativeBased（肯定式决策） 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "第二部分：授权机制与会话管理",
+      "knowledge_point": "3. 授权流程",
+      "question": "关于 **java\n// 1. 用户发起请求\nHttpServletRequest request = ...;\n\n// 2. 请求经过过滤器链\nFilterInvocation fi = new FilterInvocation(request, response, chain);\n\n// 3. FilterSecurityInterceptor拦截请求\npublic class FilterSecurityInterceptor extends AbstractSecurityInterceptor implements\n        Filter {\n    \n    public void doFilter(ServletRequest request, ServletResponse response,\n            FilterChain chain) throws IOException, ServletException {\n        \n        FilterInvocation fi = new FilterInvocation(request, response, chain);\n        \n        // 执行授权\n        InterceptorStatusToken token = super.beforeInvocation(fi);\n        \n        try {\n            // 继续过滤器链\n            fi.getChain().doFilter(fi.getRequest(), fi.getResponse());\n        } finally {\n            super.finallyInvocation(token);\n        }\n        \n        super.afterInvocation(token, null);\n    }\n}\n\n// 4. AbstractSecurityInterceptor执行授权决策\npublic abstract class AbstractSecurityInterceptor implements\n        InitializingBean, ApplicationEventPublisherAware {\n    \n    protected InterceptorStatusToken beforeInvocation(Object object) {\n        \n        // 获取安全元数据\n        Collection<ConfigAttribute> attributes = this.obtainSecurityMetadataSource()\n                .getAttributes(object);\n        \n        if (attributes == null || attributes.isEmpty()) {\n            // 没有配置属性，拒绝访问\n            if (rejectPublicInvocations) {\n                throw new IllegalArgumentException(...);\n            }\n            publishEvent(new PublicInvocationEvent(object));\n            return null; // 无需认证\n        }\n        \n        // 确保已认证\n        Authentication authenticated = authenticateIfRequired();\n        \n        try {\n            // 授权决策\n            this.accessDecisionManager.decide(authenticated, object, attributes);\n        } catch (AccessDeniedException accessDeniedException) {\n            publishEvent(new AuthorizationFailureEvent(object, attributes, authenticated,\n                    accessDeniedException));\n            throw accessDeniedException;\n        }\n        \n        // ... 运行后处理逻辑\n        \n        return new InterceptorStatusToken(...);\n    }\n    \n    private Authentication authenticateIfRequired() {\n        Authentication authentication = SecurityContextHolder.getContext()\n                .getAuthentication();\n        \n        if (authentication.isAuthenticated() && !alwaysReauthenticate) {\n            return authentication;\n        }\n        \n        // 重新认证\n        authentication = authenticationManager.authenticate(authentication);\n        \n        SecurityContextHolder.getContext().setAuthentication(authentication);\n        \n        return authentication;\n    }\n}\n** 的说法，以下哪项是正确的？",
+      "options": [
+        "java\n// 1. 用户发起请求\nHttpServletRequest request = ...;\n\n// 2. 请求经过过滤器链\nFilterInvocation fi = new FilterInvocation(request, response, chain);\n\n// 3. FilterSecurityInterceptor拦截请求\npublic class FilterSecurityInterceptor extends AbstractSecurityInterceptor implements\n        Filter {\n    \n    public void doFilter(ServletRequest request, ServletResponse response,\n            FilterChain chain) throws IOException, ServletException {\n        \n        FilterInvocation fi = new FilterInvocation(request, response, chain);\n        \n        // 执行授权\n        InterceptorStatusToken token = super.beforeInvocation(fi);\n        \n        try {\n            // 继续过滤器链\n            fi.getChain().doFilter(fi.getRequest(), fi.getResponse());\n        } finally {\n            super.finallyInvocation(token);\n        }\n        \n        super.afterInvocation(token, null);\n    }\n}\n\n// 4. AbstractSecurityInterceptor执行授权决策\npublic abstract class AbstractSecurityInterceptor implements\n        InitializingBean, ApplicationEventPublisherAware {\n    \n    protected InterceptorStatusToken beforeInvocation(Object object) {\n        \n        // 获取安全元数据\n        Collection<ConfigAttribute> attributes = this.obtainSecurityMetadataSource()\n                .getAttributes(object);\n        \n        if (attributes == null || attributes.isEmpty()) {\n            // 没有配置属性，拒绝访问\n            if (rejectPublicInvocations) {\n                throw new IllegalArgumentException(...);\n            }\n            publishEvent(new PublicInvocationEvent(object));\n            return null; // 无需认证\n        }\n        \n        // 确保已认证\n        Authentication authenticated = authenticateIfRequired();\n        \n        try {\n            // 授权决策\n            this.accessDecisionManager.decide(authenticated, object, attributes);\n        } catch (AccessDeniedException accessDeniedException) {\n            publishEvent(new AuthorizationFailureEvent(object, attributes, authenticated,\n                    accessDeniedException));\n            throw accessDeniedException;\n        }\n        \n        // ... 运行后处理逻辑\n        \n        return new InterceptorStatusToken(...);\n    }\n    \n    private Authentication authenticateIfRequired() {\n        Authentication authentication = SecurityContextHolder.getContext()\n                .getAuthentication();\n        \n        if (authentication.isAuthenticated() && !alwaysReauthenticate) {\n            return authentication;\n        }\n        \n        // 重新认证\n        authentication = authenticationManager.authenticate(authentication);\n        \n        SecurityContextHolder.getContext().setAuthentication(authentication);\n        \n        return authentication;\n    }\n}\n 是一个重要的概念",
+        "java\n// 1. 用户发起请求\nHttpServletRequest request = ...;\n\n// 2. 请求经过过滤器链\nFilterInvocation fi = new FilterInvocation(request, response, chain);\n\n// 3. FilterSecurityInterceptor拦截请求\npublic class FilterSecurityInterceptor extends AbstractSecurityInterceptor implements\n        Filter {\n    \n    public void doFilter(ServletRequest request, ServletResponse response,\n            FilterChain chain) throws IOException, ServletException {\n        \n        FilterInvocation fi = new FilterInvocation(request, response, chain);\n        \n        // 执行授权\n        InterceptorStatusToken token = super.beforeInvocation(fi);\n        \n        try {\n            // 继续过滤器链\n            fi.getChain().doFilter(fi.getRequest(), fi.getResponse());\n        } finally {\n            super.finallyInvocation(token);\n        }\n        \n        super.afterInvocation(token, null);\n    }\n}\n\n// 4. AbstractSecurityInterceptor执行授权决策\npublic abstract class AbstractSecurityInterceptor implements\n        InitializingBean, ApplicationEventPublisherAware {\n    \n    protected InterceptorStatusToken beforeInvocation(Object object) {\n        \n        // 获取安全元数据\n        Collection<ConfigAttribute> attributes = this.obtainSecurityMetadataSource()\n                .getAttributes(object);\n        \n        if (attributes == null || attributes.isEmpty()) {\n            // 没有配置属性，拒绝访问\n            if (rejectPublicInvocations) {\n                throw new IllegalArgumentException(...);\n            }\n            publishEvent(new PublicInvocationEvent(object));\n            return null; // 无需认证\n        }\n        \n        // 确保已认证\n        Authentication authenticated = authenticateIfRequired();\n        \n        try {\n            // 授权决策\n            this.accessDecisionManager.decide(authenticated, object, attributes);\n        } catch (AccessDeniedException accessDeniedException) {\n            publishEvent(new AuthorizationFailureEvent(object, attributes, authenticated,\n                    accessDeniedException));\n            throw accessDeniedException;\n        }\n        \n        // ... 运行后处理逻辑\n        \n        return new InterceptorStatusToken(...);\n    }\n    \n    private Authentication authenticateIfRequired() {\n        Authentication authentication = SecurityContextHolder.getContext()\n                .getAuthentication();\n        \n        if (authentication.isAuthenticated() && !alwaysReauthenticate) {\n            return authentication;\n        }\n        \n        // 重新认证\n        authentication = authenticationManager.authenticate(authentication);\n        \n        SecurityContextHolder.getContext().setAuthentication(authentication);\n        \n        return authentication;\n    }\n}\n 只能在特定场景下使用",
+        "java\n// 1. 用户发起请求\nHttpServletRequest request = ...;\n\n// 2. 请求经过过滤器链\nFilterInvocation fi = new FilterInvocation(request, response, chain);\n\n// 3. FilterSecurityInterceptor拦截请求\npublic class FilterSecurityInterceptor extends AbstractSecurityInterceptor implements\n        Filter {\n    \n    public void doFilter(ServletRequest request, ServletResponse response,\n            FilterChain chain) throws IOException, ServletException {\n        \n        FilterInvocation fi = new FilterInvocation(request, response, chain);\n        \n        // 执行授权\n        InterceptorStatusToken token = super.beforeInvocation(fi);\n        \n        try {\n            // 继续过滤器链\n            fi.getChain().doFilter(fi.getRequest(), fi.getResponse());\n        } finally {\n            super.finallyInvocation(token);\n        }\n        \n        super.afterInvocation(token, null);\n    }\n}\n\n// 4. AbstractSecurityInterceptor执行授权决策\npublic abstract class AbstractSecurityInterceptor implements\n        InitializingBean, ApplicationEventPublisherAware {\n    \n    protected InterceptorStatusToken beforeInvocation(Object object) {\n        \n        // 获取安全元数据\n        Collection<ConfigAttribute> attributes = this.obtainSecurityMetadataSource()\n                .getAttributes(object);\n        \n        if (attributes == null || attributes.isEmpty()) {\n            // 没有配置属性，拒绝访问\n            if (rejectPublicInvocations) {\n                throw new IllegalArgumentException(...);\n            }\n            publishEvent(new PublicInvocationEvent(object));\n            return null; // 无需认证\n        }\n        \n        // 确保已认证\n        Authentication authenticated = authenticateIfRequired();\n        \n        try {\n            // 授权决策\n            this.accessDecisionManager.decide(authenticated, object, attributes);\n        } catch (AccessDeniedException accessDeniedException) {\n            publishEvent(new AuthorizationFailureEvent(object, attributes, authenticated,\n                    accessDeniedException));\n            throw accessDeniedException;\n        }\n        \n        // ... 运行后处理逻辑\n        \n        return new InterceptorStatusToken(...);\n    }\n    \n    private Authentication authenticateIfRequired() {\n        Authentication authentication = SecurityContextHolder.getContext()\n                .getAuthentication();\n        \n        if (authentication.isAuthenticated() && !alwaysReauthenticate) {\n            return authentication;\n        }\n        \n        // 重新认证\n        authentication = authenticationManager.authenticate(authentication);\n        \n        SecurityContextHolder.getContext().setAuthentication(authentication);\n        \n        return authentication;\n    }\n}\n 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，java\n// 1. 用户发起请求\nHttpServletRequest request = ...;\n\n// 2. 请求经过过滤器链\nFilterInvocation fi = new FilterInvocation(request, response, chain);\n\n// 3. FilterSecurityInterceptor拦截请求\npublic class FilterSecurityInterceptor extends AbstractSecurityInterceptor implements\n        Filter {\n    \n    public void doFilter(ServletRequest request, ServletResponse response,\n            FilterChain chain) throws IOException, ServletException {\n        \n        FilterInvocation fi = new FilterInvocation(request, response, chain);\n        \n        // 执行授权\n        InterceptorStatusToken token = super.beforeInvocation(fi);\n        \n        try {\n            // 继续过滤器链\n            fi.getChain().doFilter(fi.getRequest(), fi.getResponse());\n        } finally {\n            super.finallyInvocation(token);\n        }\n        \n        super.afterInvocation(token, null);\n    }\n}\n\n// 4. AbstractSecurityInterceptor执行授权决策\npublic abstract class AbstractSecurityInterceptor implements\n        InitializingBean, ApplicationEventPublisherAware {\n    \n    protected InterceptorStatusToken beforeInvocation(Object object) {\n        \n        // 获取安全元数据\n        Collection<ConfigAttribute> attributes = this.obtainSecurityMetadataSource()\n                .getAttributes(object);\n        \n        if (attributes == null || attributes.isEmpty()) {\n            // 没有配置属性，拒绝访问\n            if (rejectPublicInvocations) {\n                throw new IllegalArgumentException(...);\n            }\n            publishEvent(new PublicInvocationEvent(object));\n            return null; // 无需认证\n        }\n        \n        // 确保已认证\n        Authentication authenticated = authenticateIfRequired();\n        \n        try {\n            // 授权决策\n            this.accessDecisionManager.decide(authenticated, object, attributes);\n        } catch (AccessDeniedException accessDeniedException) {\n            publishEvent(new AuthorizationFailureEvent(object, attributes, authenticated,\n                    accessDeniedException));\n            throw accessDeniedException;\n        }\n        \n        // ... 运行后处理逻辑\n        \n        return new InterceptorStatusToken(...);\n    }\n    \n    private Authentication authenticateIfRequired() {\n        Authentication authentication = SecurityContextHolder.getContext()\n                .getAuthentication();\n        \n        if (authentication.isAuthenticated() && !alwaysReauthenticate) {\n            return authentication;\n        }\n        \n        // 重新认证\n        authentication = authenticationManager.authenticate(authentication);\n        \n        SecurityContextHolder.getContext().setAuthentication(authentication);\n        \n        return authentication;\n    }\n}\n 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "第二部分：授权机制与会话管理",
+      "knowledge_point": "4. 完整示例",
+      "question": "关于 **\").hasRole(\"ADMIN\")\n                // 用户页面需要USER角色\n                .antMatchers(\"/user/** 的说法，以下哪项是正确的？",
+      "options": [
+        "\").hasRole(\"ADMIN\")\n                // 用户页面需要USER角色\n                .antMatchers(\"/user/ 是一个重要的概念",
+        "\").hasRole(\"ADMIN\")\n                // 用户页面需要USER角色\n                .antMatchers(\"/user/ 只能在特定场景下使用",
+        "\").hasRole(\"ADMIN\")\n                // 用户页面需要USER角色\n                .antMatchers(\"/user/ 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，\").hasRole(\"ADMIN\")\n                // 用户页面需要USER角色\n                .antMatchers(\"/user/ 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "第二部分：授权机制与会话管理",
+      "knowledge_point": "5. FAQ",
+      "question": "关于 **Q1: AccessDecisionManager的三种实现有什么区别？应该如何选择？** 的说法，以下哪项是正确的？",
+      "options": [
+        "Q1: AccessDecisionManager的三种实现有什么区别？应该如何选择？ 是一个重要的概念",
+        "Q1: AccessDecisionManager的三种实现有什么区别？应该如何选择？ 只能在特定场景下使用",
+        "Q1: AccessDecisionManager的三种实现有什么区别？应该如何选择？ 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，Q1: AccessDecisionManager的三种实现有什么区别？应该如何选择？ 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块5 - JWT 令牌认证",
+      "knowledge_point": "16.1 JWT 概述",
+      "question": "关于 **早期阶段** 的说法，以下哪项是正确的？",
+      "options": [
+        "早期阶段 是一个重要的概念",
+        "早期阶段 只能在特定场景下使用",
+        "早期阶段 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，早期阶段 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块5 - JWT 令牌认证",
+      "knowledge_point": "16.2 JWT 的结构",
+      "question": "关于 **常用算法** 的说法，以下哪项是正确的？",
+      "options": [
+        "常用算法 是一个重要的概念",
+        "常用算法 只能在特定场景下使用",
+        "常用算法 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，常用算法 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块5 - JWT 令牌认证",
+      "knowledge_point": "16.3 JWT 的工作原理",
+      "question": "关于 **\n用户登录\n    ↓\n服务器验证凭据\n    ↓\n服务器生成 JWT\n    ↓\n返回 JWT 给客户端\n    ↓\n客户端存储 JWT (localStorage/cookie)\n    ↓\n后续请求携带 JWT\n    ↓\n服务器验证 JWT\n    ↓\n验证通过，返回资源\n** 的说法，以下哪项是正确的？",
+      "options": [
+        "\n用户登录\n    ↓\n服务器验证凭据\n    ↓\n服务器生成 JWT\n    ↓\n返回 JWT 给客户端\n    ↓\n客户端存储 JWT (localStorage/cookie)\n    ↓\n后续请求携带 JWT\n    ↓\n服务器验证 JWT\n    ↓\n验证通过，返回资源\n 是一个重要的概念",
+        "\n用户登录\n    ↓\n服务器验证凭据\n    ↓\n服务器生成 JWT\n    ↓\n返回 JWT 给客户端\n    ↓\n客户端存储 JWT (localStorage/cookie)\n    ↓\n后续请求携带 JWT\n    ↓\n服务器验证 JWT\n    ↓\n验证通过，返回资源\n 只能在特定场景下使用",
+        "\n用户登录\n    ↓\n服务器验证凭据\n    ↓\n服务器生成 JWT\n    ↓\n返回 JWT 给客户端\n    ↓\n客户端存储 JWT (localStorage/cookie)\n    ↓\n后续请求携带 JWT\n    ↓\n服务器验证 JWT\n    ↓\n验证通过，返回资源\n 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，\n用户登录\n    ↓\n服务器验证凭据\n    ↓\n服务器生成 JWT\n    ↓\n返回 JWT 给客户端\n    ↓\n客户端存储 JWT (localStorage/cookie)\n    ↓\n后续请求携带 JWT\n    ↓\n服务器验证 JWT\n    ↓\n验证通过，返回资源\n 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块5 - JWT 令牌认证",
+      "knowledge_point": "16.4 JWT 的优势和劣势",
+      "question": "关于 **1. 无状态性** 的说法，以下哪项是正确的？",
+      "options": [
+        "1. 无状态性 是一个重要的概念",
+        "1. 无状态性 只能在特定场景下使用",
+        "1. 无状态性 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，1. 无状态性 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块5 - JWT 令牌认证",
+      "knowledge_point": "16.5 JWT 安全最佳实践",
+      "question": "关于 **java\nimport javax.crypto.KeyGenerator;\nimport java.security.NoSuchAlgorithmException;\nimport java.security.SecureRandom;\nimport java.util.Base64;\n\n/**\n * JWT 密钥管理工具类\n */\npublic class JWTKeyManager {\n    \n    /**\n     * 生成安全的随机密钥\n     * \n     * @param keySize 密钥大小（位）\n     * @return Base64 编码的密钥\n     */\n    public static String generateSecureKey(int keySize) {\n        try {\n            // 使用 KeyGenerator 生成密钥\n            KeyGenerator keyGenerator = KeyGenerator.getInstance(\"HmacSHA256\");\n            keyGenerator.init(keySize, new SecureRandom());\n            \n            byte[] key = keyGenerator.generateKey().getEncoded();\n            return Base64.getEncoder().encodeToString(key);\n            \n        } catch (NoSuchAlgorithmException e) {\n            throw new RuntimeException(\"生成密钥失败\", e);\n        }\n    }\n    \n    /**\n     * 验证密钥强度\n     * \n     * @param key 密钥字符串\n     * @return true 如果密钥足够强\n     */\n    public static boolean isKeyStrongEnough(String key) {\n        // 密钥至少 256 位（32字节）\n        return key != null && key.length() >= 32;\n    }\n    \n    public static void main(String[] args) {\n        // 生成 256 位密钥\n        String key = generateSecureKey(256);\n        System.out.println(\"生成的密钥: \" + key);\n        System.out.println(\"密钥长度: \" + key.length());\n        System.out.println(\"密钥强度: \" + (isKeyStrongEnough(key) ? \"足够\" : \"不足\"));\n    }\n}\n** 的说法，以下哪项是正确的？",
+      "options": [
+        "java\nimport javax.crypto.KeyGenerator;\nimport java.security.NoSuchAlgorithmException;\nimport java.security.SecureRandom;\nimport java.util.Base64;\n\n/**\n * JWT 密钥管理工具类\n */\npublic class JWTKeyManager {\n    \n    /**\n     * 生成安全的随机密钥\n     * \n     * @param keySize 密钥大小（位）\n     * @return Base64 编码的密钥\n     */\n    public static String generateSecureKey(int keySize) {\n        try {\n            // 使用 KeyGenerator 生成密钥\n            KeyGenerator keyGenerator = KeyGenerator.getInstance(\"HmacSHA256\");\n            keyGenerator.init(keySize, new SecureRandom());\n            \n            byte[] key = keyGenerator.generateKey().getEncoded();\n            return Base64.getEncoder().encodeToString(key);\n            \n        } catch (NoSuchAlgorithmException e) {\n            throw new RuntimeException(\"生成密钥失败\", e);\n        }\n    }\n    \n    /**\n     * 验证密钥强度\n     * \n     * @param key 密钥字符串\n     * @return true 如果密钥足够强\n     */\n    public static boolean isKeyStrongEnough(String key) {\n        // 密钥至少 256 位（32字节）\n        return key != null && key.length() >= 32;\n    }\n    \n    public static void main(String[] args) {\n        // 生成 256 位密钥\n        String key = generateSecureKey(256);\n        System.out.println(\"生成的密钥: \" + key);\n        System.out.println(\"密钥长度: \" + key.length());\n        System.out.println(\"密钥强度: \" + (isKeyStrongEnough(key) ? \"足够\" : \"不足\"));\n    }\n}\n 是一个重要的概念",
+        "java\nimport javax.crypto.KeyGenerator;\nimport java.security.NoSuchAlgorithmException;\nimport java.security.SecureRandom;\nimport java.util.Base64;\n\n/**\n * JWT 密钥管理工具类\n */\npublic class JWTKeyManager {\n    \n    /**\n     * 生成安全的随机密钥\n     * \n     * @param keySize 密钥大小（位）\n     * @return Base64 编码的密钥\n     */\n    public static String generateSecureKey(int keySize) {\n        try {\n            // 使用 KeyGenerator 生成密钥\n            KeyGenerator keyGenerator = KeyGenerator.getInstance(\"HmacSHA256\");\n            keyGenerator.init(keySize, new SecureRandom());\n            \n            byte[] key = keyGenerator.generateKey().getEncoded();\n            return Base64.getEncoder().encodeToString(key);\n            \n        } catch (NoSuchAlgorithmException e) {\n            throw new RuntimeException(\"生成密钥失败\", e);\n        }\n    }\n    \n    /**\n     * 验证密钥强度\n     * \n     * @param key 密钥字符串\n     * @return true 如果密钥足够强\n     */\n    public static boolean isKeyStrongEnough(String key) {\n        // 密钥至少 256 位（32字节）\n        return key != null && key.length() >= 32;\n    }\n    \n    public static void main(String[] args) {\n        // 生成 256 位密钥\n        String key = generateSecureKey(256);\n        System.out.println(\"生成的密钥: \" + key);\n        System.out.println(\"密钥长度: \" + key.length());\n        System.out.println(\"密钥强度: \" + (isKeyStrongEnough(key) ? \"足够\" : \"不足\"));\n    }\n}\n 只能在特定场景下使用",
+        "java\nimport javax.crypto.KeyGenerator;\nimport java.security.NoSuchAlgorithmException;\nimport java.security.SecureRandom;\nimport java.util.Base64;\n\n/**\n * JWT 密钥管理工具类\n */\npublic class JWTKeyManager {\n    \n    /**\n     * 生成安全的随机密钥\n     * \n     * @param keySize 密钥大小（位）\n     * @return Base64 编码的密钥\n     */\n    public static String generateSecureKey(int keySize) {\n        try {\n            // 使用 KeyGenerator 生成密钥\n            KeyGenerator keyGenerator = KeyGenerator.getInstance(\"HmacSHA256\");\n            keyGenerator.init(keySize, new SecureRandom());\n            \n            byte[] key = keyGenerator.generateKey().getEncoded();\n            return Base64.getEncoder().encodeToString(key);\n            \n        } catch (NoSuchAlgorithmException e) {\n            throw new RuntimeException(\"生成密钥失败\", e);\n        }\n    }\n    \n    /**\n     * 验证密钥强度\n     * \n     * @param key 密钥字符串\n     * @return true 如果密钥足够强\n     */\n    public static boolean isKeyStrongEnough(String key) {\n        // 密钥至少 256 位（32字节）\n        return key != null && key.length() >= 32;\n    }\n    \n    public static void main(String[] args) {\n        // 生成 256 位密钥\n        String key = generateSecureKey(256);\n        System.out.println(\"生成的密钥: \" + key);\n        System.out.println(\"密钥长度: \" + key.length());\n        System.out.println(\"密钥强度: \" + (isKeyStrongEnough(key) ? \"足够\" : \"不足\"));\n    }\n}\n 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，java\nimport javax.crypto.KeyGenerator;\nimport java.security.NoSuchAlgorithmException;\nimport java.security.SecureRandom;\nimport java.util.Base64;\n\n/**\n * JWT 密钥管理工具类\n */\npublic class JWTKeyManager {\n    \n    /**\n     * 生成安全的随机密钥\n     * \n     * @param keySize 密钥大小（位）\n     * @return Base64 编码的密钥\n     */\n    public static String generateSecureKey(int keySize) {\n        try {\n            // 使用 KeyGenerator 生成密钥\n            KeyGenerator keyGenerator = KeyGenerator.getInstance(\"HmacSHA256\");\n            keyGenerator.init(keySize, new SecureRandom());\n            \n            byte[] key = keyGenerator.generateKey().getEncoded();\n            return Base64.getEncoder().encodeToString(key);\n            \n        } catch (NoSuchAlgorithmException e) {\n            throw new RuntimeException(\"生成密钥失败\", e);\n        }\n    }\n    \n    /**\n     * 验证密钥强度\n     * \n     * @param key 密钥字符串\n     * @return true 如果密钥足够强\n     */\n    public static boolean isKeyStrongEnough(String key) {\n        // 密钥至少 256 位（32字节）\n        return key != null && key.length() >= 32;\n    }\n    \n    public static void main(String[] args) {\n        // 生成 256 位密钥\n        String key = generateSecureKey(256);\n        System.out.println(\"生成的密钥: \" + key);\n        System.out.println(\"密钥长度: \" + key.length());\n        System.out.println(\"密钥强度: \" + (isKeyStrongEnough(key) ? \"足够\" : \"不足\"));\n    }\n}\n 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块6 - OAuth2 与 SSO",
+      "knowledge_point": "19.1 OAuth2 概述",
+      "question": "关于 **OAuth2 的核心思想** 的说法，以下哪项是正确的？",
+      "options": [
+        "OAuth2 的核心思想 是一个重要的概念",
+        "OAuth2 的核心思想 只能在特定场景下使用",
+        "OAuth2 的核心思想 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，OAuth2 的核心思想 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块6 - OAuth2 与 SSO",
+      "knowledge_point": "19.4 常见问题解答 (FAQ)",
+      "question": "关于 **Q1: OAuth1.0 和 OAuth2.0 有什么区别？** 的说法，以下哪项是正确的？",
+      "options": [
+        "Q1: OAuth1.0 和 OAuth2.0 有什么区别？ 是一个重要的概念",
+        "Q1: OAuth1.0 和 OAuth2.0 有什么区别？ 只能在特定场景下使用",
+        "Q1: OAuth1.0 和 OAuth2.0 有什么区别？ 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，Q1: OAuth1.0 和 OAuth2.0 有什么区别？ 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块6 - OAuth2 与 SSO",
+      "knowledge_point": "19.5 思考题",
+      "question": "关于 **设计题** 的说法，以下哪项是正确的？",
+      "options": [
+        "设计题 是一个重要的概念",
+        "设计题 只能在特定场景下使用",
+        "设计题 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，设计题 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块7：安全测试与监控",
+      "knowledge_point": "知识点21：安全测试",
+      "question": "关于 **源码分析：WithMockUser** 的说法，以下哪项是正确的？",
+      "options": [
+        "源码分析：WithMockUser 是一个重要的概念",
+        "源码分析：WithMockUser 只能在特定场景下使用",
+        "源码分析：WithMockUser 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，源码分析：WithMockUser 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块7：安全测试与监控",
+      "knowledge_point": "知识点22：安全审计与监控",
+      "question": "关于 **核心事件类层次结构：** 的说法，以下哪项是正确的？",
+      "options": [
+        "核心事件类层次结构： 是一个重要的概念",
+        "核心事件类层次结构： 只能在特定场景下使用",
+        "核心事件类层次结构： 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，核心事件类层次结构： 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块8：综合实战项目",
+      "knowledge_point": "知识点23：企业级安全系统实战",
+      "question": "关于 **用户管理模块** 的说法，以下哪项是正确的？",
+      "options": [
+        "用户管理模块 是一个重要的概念",
+        "用户管理模块 只能在特定场景下使用",
+        "用户管理模块 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，用户管理模块 是该知识点的核心概念。",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "module": "模块8：综合实战项目",
+      "knowledge_point": "核心知识点",
+      "question": "关于 **测试体系** 的说法，以下哪项是正确的？",
+      "options": [
+        "测试体系 是一个重要的概念",
+        "测试体系 只能在特定场景下使用",
+        "测试体系 不适用于实际开发",
+        "以上都不对"
+      ],
+      "correct_answer": 0,
+      "explanation": "根据课程内容，测试体系 是该知识点的核心概念。",
+      "difficulty": "medium"
+    }
+  ],
+  "coding_exercises": [
+    {
+      "type": "coding",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点1: Spring Security 是什么？",
+      "title": "实现 Spring",
+      "description": "根据本知识点的内容，请实现 Spring 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点2: 第一个 Spring Security 应用",
+      "title": "实现 JDK",
+      "description": "根据本知识点的内容，请实现 JDK 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点3: 核心架构概念",
+      "title": "实现 Spring",
+      "description": "根据本知识点的内容，请实现 Spring 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点5: 认证核心原理",
+      "title": "实现 Authentication",
+      "description": "根据本知识点的内容，请实现 Authentication 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点6: 用户详情服务",
+      "title": "实现 UserDetailsService",
+      "description": "根据本知识点的内容，请实现 UserDetailsService 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点7: 密码编码机制",
+      "title": "实现 GDPR",
+      "description": "根据本知识点的内容，请实现 GDPR 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "第二部分：授权机制与会话管理",
+      "knowledge_point": "1. 授权概述",
+      "title": "实现 Authorization",
+      "description": "根据本知识点的内容，请实现 Authorization 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "第二部分：授权机制与会话管理",
+      "knowledge_point": "2. 授权架构",
+      "title": "实现 Spring",
+      "description": "根据本知识点的内容，请实现 Spring 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "第二部分：授权机制与会话管理",
+      "knowledge_point": "3. 授权流程",
+      "title": "实现 HttpServletRequest",
+      "description": "根据本知识点的内容，请实现 HttpServletRequest 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块5 - JWT 令牌认证",
+      "knowledge_point": "16.2 JWT 的结构",
+      "title": "实现 JWT",
+      "description": "根据本知识点的内容，请实现 JWT 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块5 - JWT 令牌认证",
+      "knowledge_point": "16.3 JWT 的工作原理",
+      "title": "实现 JWT",
+      "description": "根据本知识点的内容，请实现 JWT 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块6 - OAuth2 与 SSO",
+      "knowledge_point": "19.1 OAuth2 概述",
+      "title": "实现 OAuth",
+      "description": "根据本知识点的内容，请实现 OAuth 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块6 - OAuth2 与 SSO",
+      "knowledge_point": "19.2 OAuth2 授权流程",
+      "title": "实现 Authorization",
+      "description": "根据本知识点的内容，请实现 Authorization 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块6 - OAuth2 与 SSO",
+      "knowledge_point": "19.3 OAuth2 安全最佳实践",
+      "title": "实现 PKCE",
+      "description": "根据本知识点的内容，请实现 PKCE 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块7：安全测试与监控",
+      "knowledge_point": "知识点21：安全测试",
+      "title": "实现 Spring",
+      "description": "根据本知识点的内容，请实现 Spring 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块7：安全测试与监控",
+      "knowledge_point": "知识点22：安全审计与监控",
+      "title": "实现 SOX",
+      "description": "根据本知识点的内容，请实现 SOX 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "type": "coding",
+      "module": "模块8：综合实战项目",
+      "knowledge_point": "知识点23：企业级安全系统实战",
+      "title": "实现 CRUD",
+      "description": "根据本知识点的内容，请实现 CRUD 的核心功能。",
+      "requirements": [
+        "功能完整",
+        "代码规范",
+        "添加注释",
+        "处理异常情况"
+      ],
+      "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+      "hints": [
+        "参考课程中的示例代码",
+        "注意处理边界情况",
+        "考虑性能优化"
+      ],
+      "difficulty": "medium"
+    }
+  ],
+  "essay_questions": [
+    {
+      "type": "essay",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点1: Spring Security 是什么？",
+      "question": "请详细论述 核心特性： 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    },
+    {
+      "type": "essay",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点2: 第一个 Spring Security 应用",
+      "question": "请详细论述 2.1.1 系统要求 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    },
+    {
+      "type": "essay",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点5: 认证核心原理",
+      "question": "请详细论述 5.1.1 认证与授权的区别 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    },
+    {
+      "type": "essay",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点6: 用户详情服务",
+      "question": "请详细论述 6.1.1 接口定义 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    },
+    {
+      "type": "essay",
+      "module": "第二部分：授权机制与会话管理",
+      "knowledge_point": "2. 授权架构",
+      "question": "请详细论述 1. AffirmativeBased（肯定式决策） 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    },
+    {
+      "type": "essay",
+      "module": "模块5 - JWT 令牌认证",
+      "knowledge_point": "16.1 JWT 概述",
+      "question": "请详细论述 早期阶段 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    },
+    {
+      "type": "essay",
+      "module": "模块5 - JWT 令牌认证",
+      "knowledge_point": "16.2 JWT 的结构",
+      "question": "请详细论述 常用算法 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    },
+    {
+      "type": "essay",
+      "module": "模块6 - OAuth2 与 SSO",
+      "knowledge_point": "19.1 OAuth2 概述",
+      "question": "请详细论述 OAuth2 的核心思想 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    },
+    {
+      "type": "essay",
+      "module": "模块7：安全测试与监控",
+      "knowledge_point": "知识点21：安全测试",
+      "question": "请详细论述 源码分析：WithMockUser 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    },
+    {
+      "type": "essay",
+      "module": "模块7：安全测试与监控",
+      "knowledge_point": "知识点22：安全审计与监控",
+      "question": "请详细论述 核心事件类层次结构： 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    },
+    {
+      "type": "essay",
+      "module": "模块8：综合实战项目",
+      "knowledge_point": "知识点23：企业级安全系统实战",
+      "question": "请详细论述 用户管理模块 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    },
+    {
+      "type": "essay",
+      "module": "模块8：综合实战项目",
+      "knowledge_point": "核心知识点",
+      "question": "请详细论述 测试体系 的原理、应用场景以及最佳实践。",
+      "requirements": [
+        "论述原理和机制",
+        "结合实际应用场景",
+        "给出代码示例或案例",
+        "分析优缺点",
+        "字数不少于300字"
+      ],
+      "scoring_criteria": [
+        "概念理解准确 (25分)",
+        "论述全面深入 (25分)",
+        "案例恰当具体 (25分)",
+        "条理清晰完整 (25分)"
+      ],
+      "suggested_length": "300-500字",
+      "difficulty": "hard"
+    }
+  ],
+  "true_false_questions": [
+    {
+      "type": "true_false",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点1: Spring Security 是什么？",
+      "statement": "#### 1.1 Spring Security 概述\n\nSpring Security 是一个功能强大且高度可定制的身份验证和访问控制框架，它是保护基于 Spring 的应用程序的事实标准",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点2: 第一个 Spring Security 应用",
+      "statement": "#### 2.1 环境准备\n\n在开始之前，我们需要准备开发环境",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块1 - Spring Security 快速入门",
+      "knowledge_point": "知识点3: 核心架构概念",
+      "statement": "#### 3.1 过滤器链架构\n\nSpring Security 的核心是基于 Servlet 过滤器链的安全机制",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点5: 认证核心原理",
+      "statement": "#### 5.1 认证概述\n\n认证（Authentication）是验证用户身份的过程，是安全系统的第一道防线",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点7: 密码编码机制",
+      "statement": "#### 7.1 密码编码概述\n\n密码编码是安全系统中的关键环节，用于保护用户密码的安全存储",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块2 - 认证机制深度剖析",
+      "knowledge_point": "知识点8: 常用认证方式",
+      "statement": "#### 8.1 HTTP Basic 认证\n\nHTTP Basic 认证是最简单的认证方式，内置在 HTTP 协议中",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "第二部分：授权机制与会话管理",
+      "knowledge_point": "1. 授权概述",
+      "statement": "授权（Authorization）是Spring Security的核心功能之一，用于确定已认证的用户是否有权执行特定操作或访问特定资源",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "第二部分：授权机制与会话管理",
+      "knowledge_point": "5. FAQ",
+      "statement": "**Q1: AccessDecisionManager的三种实现有什么区别",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块5 - JWT 令牌认证",
+      "knowledge_point": "16.1 JWT 概述",
+      "statement": "#### 16.1.1 什么是 JWT\n\nJSON Web Token (JWT) 是一种开放标准 (RFC 7519)，用于在各方之间以 JSON 对象安全地传输信息",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块5 - JWT 令牌认证",
+      "knowledge_point": "16.2 JWT 的结构",
+      "statement": "声明是关于实体（通常是用户）和其他数据的陈述",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块6 - OAuth2 与 SSO",
+      "knowledge_point": "19.1 OAuth2 概述",
+      "statement": "#### 19.1.1 什么是 OAuth2\n\nOAuth 2.0 (Open Authorization 2.0) 是一个开放标准，用于授权",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块6 - OAuth2 与 SSO",
+      "knowledge_point": "19.3 OAuth2 安全最佳实践",
+      "statement": "#### 19.3.1 PKCE (Proof Key for Code Exchange)\n\n```java\n/**\n * PKCE (RFC 7636)\n * \n * 为什么需要 PKCE",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块6 - OAuth2 与 SSO",
+      "knowledge_point": "19.4 常见问题解答 (FAQ)",
+      "statement": "**Q1: OAuth1.0 和 OAuth2.0 有什么区别",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块6 - OAuth2 与 SSO",
+      "knowledge_point": "19.5 思考题",
+      "statement": "1. **设计题**: 设计一个基于 OAuth2 的单点登录（SSO）系统，支持多个子公司共享用户账户",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块7：安全测试与监控",
+      "knowledge_point": "知识点21：安全测试",
+      "statement": "#### 21.1 概述\n\n安全测试是确保应用程序安全性的关键环节",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块7：安全测试与监控",
+      "knowledge_point": "知识点22：安全审计与监控",
+      "statement": "#### 22.1 概述\n\n安全审计与监控是企业级应用的重要组成部分",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    },
+    {
+      "type": "true_false",
+      "module": "模块8：综合实战项目",
+      "knowledge_point": "知识点23：企业级安全系统实战",
+      "statement": "#### 23.1 项目概述\n\n本模块将构建一个完整的企业级安全系统，涵盖前面学习的所有知识点",
+      "correct_answer": true,
+      "explanation": "根据课程内容，该说法是正确的。",
+      "difficulty": "easy"
+    }
+  ]
+}

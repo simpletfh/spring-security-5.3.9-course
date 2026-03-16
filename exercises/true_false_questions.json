@@ -1,0 +1,155 @@
+[
+  {
+    "type": "true_false",
+    "module": "模块1 - Spring Security 快速入门",
+    "knowledge_point": "知识点1: Spring Security 是什么？",
+    "statement": "#### 1.1 Spring Security 概述\n\nSpring Security 是一个功能强大且高度可定制的身份验证和访问控制框架，它是保护基于 Spring 的应用程序的事实标准",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块1 - Spring Security 快速入门",
+    "knowledge_point": "知识点2: 第一个 Spring Security 应用",
+    "statement": "#### 2.1 环境准备\n\n在开始之前，我们需要准备开发环境",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块1 - Spring Security 快速入门",
+    "knowledge_point": "知识点3: 核心架构概念",
+    "statement": "#### 3.1 过滤器链架构\n\nSpring Security 的核心是基于 Servlet 过滤器链的安全机制",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块2 - 认证机制深度剖析",
+    "knowledge_point": "知识点5: 认证核心原理",
+    "statement": "#### 5.1 认证概述\n\n认证（Authentication）是验证用户身份的过程，是安全系统的第一道防线",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块2 - 认证机制深度剖析",
+    "knowledge_point": "知识点7: 密码编码机制",
+    "statement": "#### 7.1 密码编码概述\n\n密码编码是安全系统中的关键环节，用于保护用户密码的安全存储",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块2 - 认证机制深度剖析",
+    "knowledge_point": "知识点8: 常用认证方式",
+    "statement": "#### 8.1 HTTP Basic 认证\n\nHTTP Basic 认证是最简单的认证方式，内置在 HTTP 协议中",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "第二部分：授权机制与会话管理",
+    "knowledge_point": "1. 授权概述",
+    "statement": "授权（Authorization）是Spring Security的核心功能之一，用于确定已认证的用户是否有权执行特定操作或访问特定资源",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "第二部分：授权机制与会话管理",
+    "knowledge_point": "5. FAQ",
+    "statement": "**Q1: AccessDecisionManager的三种实现有什么区别",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块5 - JWT 令牌认证",
+    "knowledge_point": "16.1 JWT 概述",
+    "statement": "#### 16.1.1 什么是 JWT\n\nJSON Web Token (JWT) 是一种开放标准 (RFC 7519)，用于在各方之间以 JSON 对象安全地传输信息",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块5 - JWT 令牌认证",
+    "knowledge_point": "16.2 JWT 的结构",
+    "statement": "声明是关于实体（通常是用户）和其他数据的陈述",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块6 - OAuth2 与 SSO",
+    "knowledge_point": "19.1 OAuth2 概述",
+    "statement": "#### 19.1.1 什么是 OAuth2\n\nOAuth 2.0 (Open Authorization 2.0) 是一个开放标准，用于授权",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块6 - OAuth2 与 SSO",
+    "knowledge_point": "19.3 OAuth2 安全最佳实践",
+    "statement": "#### 19.3.1 PKCE (Proof Key for Code Exchange)\n\n```java\n/**\n * PKCE (RFC 7636)\n * \n * 为什么需要 PKCE",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块6 - OAuth2 与 SSO",
+    "knowledge_point": "19.4 常见问题解答 (FAQ)",
+    "statement": "**Q1: OAuth1.0 和 OAuth2.0 有什么区别",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块6 - OAuth2 与 SSO",
+    "knowledge_point": "19.5 思考题",
+    "statement": "1. **设计题**: 设计一个基于 OAuth2 的单点登录（SSO）系统，支持多个子公司共享用户账户",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块7：安全测试与监控",
+    "knowledge_point": "知识点21：安全测试",
+    "statement": "#### 21.1 概述\n\n安全测试是确保应用程序安全性的关键环节",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块7：安全测试与监控",
+    "knowledge_point": "知识点22：安全审计与监控",
+    "statement": "#### 22.1 概述\n\n安全审计与监控是企业级应用的重要组成部分",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "module": "模块8：综合实战项目",
+    "knowledge_point": "知识点23：企业级安全系统实战",
+    "statement": "#### 23.1 项目概述\n\n本模块将构建一个完整的企业级安全系统，涵盖前面学习的所有知识点",
+    "correct_answer": true,
+    "explanation": "根据课程内容，该说法是正确的。",
+    "difficulty": "easy"
+  }
+]

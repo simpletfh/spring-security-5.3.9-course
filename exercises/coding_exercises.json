@@ -1,0 +1,342 @@
+[
+  {
+    "type": "coding",
+    "module": "模块1 - Spring Security 快速入门",
+    "knowledge_point": "知识点1: Spring Security 是什么？",
+    "title": "实现 Spring",
+    "description": "根据本知识点的内容，请实现 Spring 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块1 - Spring Security 快速入门",
+    "knowledge_point": "知识点2: 第一个 Spring Security 应用",
+    "title": "实现 JDK",
+    "description": "根据本知识点的内容，请实现 JDK 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块1 - Spring Security 快速入门",
+    "knowledge_point": "知识点3: 核心架构概念",
+    "title": "实现 Spring",
+    "description": "根据本知识点的内容，请实现 Spring 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块2 - 认证机制深度剖析",
+    "knowledge_point": "知识点5: 认证核心原理",
+    "title": "实现 Authentication",
+    "description": "根据本知识点的内容，请实现 Authentication 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块2 - 认证机制深度剖析",
+    "knowledge_point": "知识点6: 用户详情服务",
+    "title": "实现 UserDetailsService",
+    "description": "根据本知识点的内容，请实现 UserDetailsService 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块2 - 认证机制深度剖析",
+    "knowledge_point": "知识点7: 密码编码机制",
+    "title": "实现 GDPR",
+    "description": "根据本知识点的内容，请实现 GDPR 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "第二部分：授权机制与会话管理",
+    "knowledge_point": "1. 授权概述",
+    "title": "实现 Authorization",
+    "description": "根据本知识点的内容，请实现 Authorization 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "第二部分：授权机制与会话管理",
+    "knowledge_point": "2. 授权架构",
+    "title": "实现 Spring",
+    "description": "根据本知识点的内容，请实现 Spring 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "第二部分：授权机制与会话管理",
+    "knowledge_point": "3. 授权流程",
+    "title": "实现 HttpServletRequest",
+    "description": "根据本知识点的内容，请实现 HttpServletRequest 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块5 - JWT 令牌认证",
+    "knowledge_point": "16.2 JWT 的结构",
+    "title": "实现 JWT",
+    "description": "根据本知识点的内容，请实现 JWT 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块5 - JWT 令牌认证",
+    "knowledge_point": "16.3 JWT 的工作原理",
+    "title": "实现 JWT",
+    "description": "根据本知识点的内容，请实现 JWT 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块6 - OAuth2 与 SSO",
+    "knowledge_point": "19.1 OAuth2 概述",
+    "title": "实现 OAuth",
+    "description": "根据本知识点的内容，请实现 OAuth 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块6 - OAuth2 与 SSO",
+    "knowledge_point": "19.2 OAuth2 授权流程",
+    "title": "实现 Authorization",
+    "description": "根据本知识点的内容，请实现 Authorization 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块6 - OAuth2 与 SSO",
+    "knowledge_point": "19.3 OAuth2 安全最佳实践",
+    "title": "实现 PKCE",
+    "description": "根据本知识点的内容，请实现 PKCE 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块7：安全测试与监控",
+    "knowledge_point": "知识点21：安全测试",
+    "title": "实现 Spring",
+    "description": "根据本知识点的内容，请实现 Spring 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块7：安全测试与监控",
+    "knowledge_point": "知识点22：安全审计与监控",
+    "title": "实现 SOX",
+    "description": "根据本知识点的内容，请实现 SOX 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "type": "coding",
+    "module": "模块8：综合实战项目",
+    "knowledge_point": "知识点23：企业级安全系统实战",
+    "title": "实现 CRUD",
+    "description": "根据本知识点的内容，请实现 CRUD 的核心功能。",
+    "requirements": [
+      "功能完整",
+      "代码规范",
+      "添加注释",
+      "处理异常情况"
+    ],
+    "template": "# 请在这里实现你的代码\n\ndef your_function():\n    pass\n",
+    "hints": [
+      "参考课程中的示例代码",
+      "注意处理边界情况",
+      "考虑性能优化"
+    ],
+    "difficulty": "medium"
+  }
+]

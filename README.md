@@ -52,6 +52,95 @@
 
 ---
 
+## 🎨 可可视化图表（新增）
+
+### 功能说明
+
+自动从课程讲义生成的可视化知识图谱，帮助学生更好地理解课程结构和知识关系。
+
+### 可用图表
+
+| 图表类型 | 说明 | 文件 |
+|---------|------|------|
+| 🧠 思维导图 | 课程知识结构全景 | [mindmap.md](diagrams/mindmap.md) |
+| 🛤️ 学习路径 | 推荐的学习顺序和依赖关系 | [flowchart.md](diagrams/flowchart.md) |
+| 🏗️ 知识体系 | 模块和知识点的类图关系 | [class_diagram.md](diagrams/class_diagram.md) |
+| ⏱️ 学习时间线 | 学习计划和时间安排 | [timeline.md](diagrams/timeline.md) |
+| 🔗 概念关系 | 核心概念之间的关联 | [concept_graph.md](diagrams/concept_graph.md) |
+
+### 快速预览
+
+**思维导图示例**：
+```mermaid
+mindmap
+  root((Spring Security))
+    模块1[快速入门]
+      认证
+      授权
+    模块2[认证机制]
+      用户详情
+      密码编码
+```
+
+### 使用方式
+
+- **GitHub**: 直接查看（原生支持 Mermaid）
+- **本地**: 使用支持 Mermaid 的编辑器（VS Code + Mermaid Preview 插件）
+- **在线**: 访问 https://mermaid.live/ 粘贴代码预览
+
+详细说明请查看：[图表使用索引](diagrams/index.md)
+
+---
+
+## 📝 练习题库（新增）
+
+### 功能说明
+
+从课程讲义自动生成的练习题库，包含多种题型，可用于课后作业、章节测验和期末考试。
+
+### 题库统计
+
+| 题型 | 数量 | 难度 | 用途 |
+|------|------|------|------|
+| ✅ 选择题 | 25 题 | 中等 | 概念理解和记忆 |
+| ✅ 判断题 | 17 题 | 简单 | 快速检验理解 |
+| 💻 编程题 | 17 题 | 中等 | 实战能力训练 |
+| ✍️ 论述题 | 12 题 | 较难 | 深度思考和表达 |
+| **总计** | **71 题** | - | - |
+
+### 可用文件
+
+| 文件 | 格式 | 说明 |
+|------|------|------|
+| [exercises.md](exercises/exercises.md) | Markdown | 完整练习册（适合打印和阅读） |
+| [answers.md](exercises/answers.md) | Markdown | 参考答案 |
+| [exercises.json](exercises/exercises.json) | JSON | 完整题库（适合平台集成） |
+| [stats.json](exercises/stats.json) | JSON | 统计信息 |
+
+### 使用场景
+
+- **课后作业**: 每模块选择 5-10 题布置
+- **章节测验**: 选择特定模块的题目
+- **期末考试**: 组合所有模块的题目
+- **在线练习**: 导入 JSON 到练习平台
+
+### 题型示例
+
+**选择题示例**：
+```markdown
+### 关于 **FilterChainProxy** 的说法，以下哪项是正确的？
+
+A. FilterChainProxy 是 Spring Security 的核心过滤器
+B. FilterChainProxy 只能处理认证请求
+C. FilterChainProxy 不支持扩展
+D. 以上都不对
+
+答案: A
+解析: FilterChainProxy 是 Spring Security 的核心过滤器，负责协调整个过滤器链。
+```
+
+---
+
 ## 🎯 课程大纲
 
 ### 模块1️⃣: Spring Security 快速入门

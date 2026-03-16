@@ -1,0 +1,254 @@
+[
+  {
+    "type": "essay",
+    "module": "模块1 - Spring Security 快速入门",
+    "knowledge_point": "知识点1: Spring Security 是什么？",
+    "question": "请详细论述 核心特性： 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  },
+  {
+    "type": "essay",
+    "module": "模块1 - Spring Security 快速入门",
+    "knowledge_point": "知识点2: 第一个 Spring Security 应用",
+    "question": "请详细论述 2.1.1 系统要求 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  },
+  {
+    "type": "essay",
+    "module": "模块2 - 认证机制深度剖析",
+    "knowledge_point": "知识点5: 认证核心原理",
+    "question": "请详细论述 5.1.1 认证与授权的区别 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  },
+  {
+    "type": "essay",
+    "module": "模块2 - 认证机制深度剖析",
+    "knowledge_point": "知识点6: 用户详情服务",
+    "question": "请详细论述 6.1.1 接口定义 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  },
+  {
+    "type": "essay",
+    "module": "第二部分：授权机制与会话管理",
+    "knowledge_point": "2. 授权架构",
+    "question": "请详细论述 1. AffirmativeBased（肯定式决策） 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  },
+  {
+    "type": "essay",
+    "module": "模块5 - JWT 令牌认证",
+    "knowledge_point": "16.1 JWT 概述",
+    "question": "请详细论述 早期阶段 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  },
+  {
+    "type": "essay",
+    "module": "模块5 - JWT 令牌认证",
+    "knowledge_point": "16.2 JWT 的结构",
+    "question": "请详细论述 常用算法 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  },
+  {
+    "type": "essay",
+    "module": "模块6 - OAuth2 与 SSO",
+    "knowledge_point": "19.1 OAuth2 概述",
+    "question": "请详细论述 OAuth2 的核心思想 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  },
+  {
+    "type": "essay",
+    "module": "模块7：安全测试与监控",
+    "knowledge_point": "知识点21：安全测试",
+    "question": "请详细论述 源码分析：WithMockUser 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  },
+  {
+    "type": "essay",
+    "module": "模块7：安全测试与监控",
+    "knowledge_point": "知识点22：安全审计与监控",
+    "question": "请详细论述 核心事件类层次结构： 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  },
+  {
+    "type": "essay",
+    "module": "模块8：综合实战项目",
+    "knowledge_point": "知识点23：企业级安全系统实战",
+    "question": "请详细论述 用户管理模块 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  },
+  {
+    "type": "essay",
+    "module": "模块8：综合实战项目",
+    "knowledge_point": "核心知识点",
+    "question": "请详细论述 测试体系 的原理、应用场景以及最佳实践。",
+    "requirements": [
+      "论述原理和机制",
+      "结合实际应用场景",
+      "给出代码示例或案例",
+      "分析优缺点",
+      "字数不少于300字"
+    ],
+    "scoring_criteria": [
+      "概念理解准确 (25分)",
+      "论述全面深入 (25分)",
+      "案例恰当具体 (25分)",
+      "条理清晰完整 (25分)"
+    ],
+    "suggested_length": "300-500字",
+    "difficulty": "hard"
+  }
+]
